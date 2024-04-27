@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE                     COMMAND                  CREATED              STATUS                      PORTS     NAMES
+06b30132682e   mongo                     "docker-entrypoint.s…"   45 seconds ago       Exited (0) 33 seconds ago             condescending_faraday
+99c42b8f34c7   linuxserver/code-server   "/init"                  About a minute ago   Exited (0) 30 seconds ago             exciting_hellman
+e578b39f8ed5   nginx                     "/docker-entrypoint.…"   5 minutes ago        Up 5 minutes                80/tcp    crazy_ritchie
